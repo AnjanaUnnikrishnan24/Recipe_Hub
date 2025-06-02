@@ -10,9 +10,9 @@ The TastyBites is a React-based web application that allows users to explore a w
 
 - ##🚀 GETTING STARTED
 - 1.**Initialize the Repository**: git init
-- 2.*1.**Clone the Repository**: git clone <repository-url>
+- 2.**Clone the Repository**: git clone <repository-url>
 - 3.**Install Dependencies** : npm install
-- 3.**Start the Development Server** : npm run dev
+- 4.**Start the Development Server** : npm run dev
 ## Demo Video Link
 https://youtu.be/dF7Fu1f3t6c
 
